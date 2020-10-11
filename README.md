@@ -110,6 +110,8 @@ XxX| safehifive
 
 XxX| safepoke
 
+---------------------------------------------
+
 **__▸Staff-Commands!__** 
 
 `XxX`| info - Gives info on the bot.
