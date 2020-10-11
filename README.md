@@ -82,11 +82,11 @@ Invite link https://discord.com/oauth2/authorize?client_id=673992691683688489&sc
 
 **__▸Music-Related!__** 
 
-`XxX`| play - 
+`XxX`| play  
 
-`XxX`| stop - 
+`XxX`| stop 
 
-`XxX`| skip -  
+`XxX`| skip 
 
 ▸SFW/Safe For Work actions!
 
