@@ -18,11 +18,11 @@ Below is the list of VimMusic Commands
 
 **__▸Music-Related!__** 
 
-`vm`| play - 
+`vm`| play 
 
-`vm`| stop - 
+`vm`| stop 
 
-`vm`| skip - 
+`vm`| skip 
 
 -----------------
 
