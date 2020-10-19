@@ -22,6 +22,10 @@ and lastly has NSFW commands (not going into detail).
 
 This bot was the third of all the Vim bots created for one purpose, and that was for music and only music.
 
+`JaianMusic`|
+
+
+
 `Vim-Welcome`|
 
 This bot is the 4th of the Vim Bots 
