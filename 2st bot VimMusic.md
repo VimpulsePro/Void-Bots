@@ -14,9 +14,9 @@ Below is the list of VimMusic Commands
 
 `vm`| avatar - Shows the PFP of the user.
 
-`vm`| Check the servers Invite Leaderboard.
+`vm`| invitetop - Check the servers Invite Leaderboard.
 
-`vm`| Check yours and or anyone elses invite status.
+`vm`| inviteplayer - Check yours and or anyone elses invite status.
 
 **__▸Music-Related!__** 
 
@@ -38,6 +38,6 @@ Below is the list of VimMusic Commands
 
 `vm`| inviteinfo - Find the info of a invite link or code.
 
-`vm`| Nuke a whole text chat and it will recreate it self.
+`vm`| nuke - Nuke a whole text chat and it will recreate it self.
 
-`vm`| Create a poll for a yah or nah response.
+`vm`| poll - Create a poll for a yah or nah response.
