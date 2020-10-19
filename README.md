@@ -10,7 +10,7 @@ Music are just the simple commands that all the music bots needs
 
 Invite checking system
 
-Givaways system
+Giveaways system
 
 Polls
 
