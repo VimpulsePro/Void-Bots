@@ -4,6 +4,7 @@ Its just for welcome based things
 Invite link https://discord.com/oauth2/authorize?client_id=764606143812993044&scope=bot&permissions=2146958591
 
 Below is the list of Vim-Welcome Commands
+
 **__▸Commands!__** 
 
 `vw`| changewelcome - This is all you have to do to set the custom messaage and set the channel.
