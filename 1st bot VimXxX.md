@@ -114,6 +114,8 @@ XxX| safepoke
 
 **__▸Staff-Commands!__** 
 
+`XxX`| staff-help
+
 `XxX`| info - Gives info on the bot.
 
 `XxX`| emojilist - Posts all your emojis as a post.
