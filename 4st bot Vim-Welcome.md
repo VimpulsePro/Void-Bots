@@ -5,6 +5,8 @@ Invite link https://discord.com/oauth2/authorize?client_id=764606143812993044&sc
 
 Below is the list of Vim-Welcome Commands
 
+`vw`| help
+
 **__▸Commands!__** 
 
 `vw`| invitetop - Check the servers Invite Leaderboard.
@@ -12,6 +14,8 @@ Below is the list of Vim-Welcome Commands
 `vw`| inviteplayer - Check your or anyone elses invite status.
 
 Below is the list of Vim-Welcome Staff Commands
+
+`vw`| staff-help
 
 **__▸Commands!__** 
 
