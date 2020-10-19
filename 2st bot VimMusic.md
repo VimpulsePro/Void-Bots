@@ -2,6 +2,8 @@ VimMusic
 
 This bot was the third of all the Vim bots created for one purpose, and that was for music and only music.
 
+Invite link https://discord.com/oauth2/authorize?client_id=756324909919109211&scope=bot&permissions=2146958591
+
 Below is the list of VimMusic Commands
 
 **__▸Commands!__** 
