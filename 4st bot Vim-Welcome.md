@@ -7,6 +7,14 @@ Below is the list of Vim-Welcome Commands
 
 **__▸Commands!__** 
 
+`vw`| invitetop - Check the servers Invite Leaderboard.
+
+`vw`| inviteplayer - Check your or anyone elses invite status.
+
+Below is the list of Vim-Welcome Staff Commands
+
+**__▸Commands!__** 
+
 `vw`| changewelcome - This is all you have to do to set the custom messaage and set the channel.
 
 `vw`| changeleave - This is all you have to do to set the custom messaage and set the channel.
