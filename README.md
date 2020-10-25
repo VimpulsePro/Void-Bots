@@ -16,6 +16,8 @@ Polls
 
 Reaction Roles 
 
+Welcomer Command and Event
+
 and lastly has NSFW commands (not going into detail).
 
 `VimMusic`|
