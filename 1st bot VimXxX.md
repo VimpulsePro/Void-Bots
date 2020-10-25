@@ -1,6 +1,20 @@
-VimXxX has custom commands that very from flipping a coin to suggest (it will create a channel and post the suggests in there when someone suggests something) commands. 
-Random gif commands. You can choose cats, dogs, pikachu and or neko and it will randomize gifs.
-Music are just the simple commands that all the music bots needs. Invite checking system, Givaways system, Polls, Reaction Roles, and lastly has NSFW commands (not going into detail).
+Has custom commands that very from flipping a coin to suggest (it will create a channel and post the suggests in there when someone suggests something) commands. 
+
+Random gif commands. You can choose cats, dogs, pikachu and or neko and it will randomize gifs. 
+
+Music are just the simple commands that all the music bots needs
+
+Invite checking system
+
+Giveaways system
+
+Polls
+
+Reaction Roles 
+
+Welcomer Command and Event
+
+and lastly has NSFW commands (not going into detail).
 
 Invite link https://discord.com/oauth2/authorize?client_id=673992691683688489&scope=bot&permissions=2146958591
 
@@ -169,3 +183,9 @@ XxX| safepoke
 `XxX`| gdraw - Draw a winner(s) from a giveaway.
 
 `XxX`| gend - End a giveaway.
+
+**__▸Welcomer!__** 
+
+XxX| changewelcome - This is all you have to do to set the custom messaage and set the channel.
+
+XxX| changeleave - This is all you have to do to set the custom messaage and set the channel.
