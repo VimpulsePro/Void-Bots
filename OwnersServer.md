@@ -12,3 +12,5 @@ A therapy corner is a place where you can talk about your feelings, mental state
 
 The music stand is all about creativity, talking with artists, collaboration, and also a place to share the music that you have created.
 And who is he to be honest he is a digital content creator who produces anime music covers and podcasts about anime on YouTube. He is also a freelance composer, certified sound engineer, sound designer, and artist who developed a following through his works.
+
+Invite link --- https://discord.gg/TZVzb6K
