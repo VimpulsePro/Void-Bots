@@ -22,7 +22,10 @@ Below is the list of Vim-Welcome Staff Commands
 `vw`| changewelcome - This is all you have to do to set the custom messaage and set the channel.
 
 `vw`| changeleave - This is all you have to do to set the custom messaage and set the channel.
-
 `vw`| invitesettings - You can change the format on your server.
 
 `vw`| inviteinfo - Find the info of a invite link or code.
+
+`vw`| set-autorole (@role) - Set the auto role.
+
+`vw`| disable-autorole - Disable the auto role.
